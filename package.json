@@ -3,6 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "^4.0.5",
+    "antd": "^4.0.2",
+    "formik": "^2.1.4",
+    "ramda": "^0.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-actions": "^2.6.5",
+    "reselect": "^4.0.0",
+    "styled-components": "^5.0.1",
+    "typescript": "^3.7.5",
+    "yup": "^0.28.3"
+  },
+  "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -10,10 +26,11 @@
     "@types/node": "^12.12.34",
     "@types/react": "^16.9.32",
     "@types/react-dom": "^16.9.6",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "typescript": "^3.7.5"
+    "@types/react-redux": "^7.1.2",
+    "@types/redux-actions": "^2.6.1",
+    "@types/ramda": "^0.26.21",
+    "@types/yup": "^0.26.23",
+    "@types/styled-components": "^4.1.19"
   },
   "scripts": {
     "start": "react-scripts start",
