@@ -27,24 +27,12 @@ These are the only functional requirements for your implementation:
 - You cannot submit until input fields
 - When submitting then console log the input values
 
-# Commits
-
-Please commit frequently to communicate your thoughts while working on this assignment.
-
 # What is valued
 
 - Tests
 - Clean Code
 - State Management
 - Design (Responsive)
-
-# Duration
-
-Use roughly 3 hours on this assignment. You are only expected to do work on this assignment that matches the skill level of the role you are applying for, but you are welcome to do as much as you like. You are not necessarily expected to do everything in this assignment because of the short time duration of the assignment.
-
-# Tools
-
-You are encouraged to use anything you can find on the internet except from other people's solution to this assignment.
 
 # Tech
 
