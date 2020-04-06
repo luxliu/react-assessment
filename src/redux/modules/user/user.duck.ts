@@ -39,7 +39,7 @@ export default (state = initialState, action: Action) => {
   const reducer = {
     [GET_USER]: (state: any) => ({
       ...state,
-      firstName: "ASB"
+      firstName: "Lux"
     })
   }[type];
 
